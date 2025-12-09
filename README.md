@@ -48,3 +48,19 @@ The penetration testing assessment included:
 
 ## 📂 Repository Structure
 
+---
+
+## 🛡 Key Highlights
+
+- All findings, screenshots, and PoCs are included in the `Report/` directory.  
+- Demonstrates methodical, real-world security assessment skills.  
+- Provides actionable remediation recommendations for identified vulnerabilities.
+
+---
+
+## ⚠ Disclaimer
+
+This virtual machine is **intentionally vulnerable** and intended strictly for educational purposes.  
+Do **not** deploy or expose it outside a controlled testing environment.
+
+
