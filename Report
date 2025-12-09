@@ -1,9 +1,11 @@
 🛡️ Key Findings
+
 #	Vulnerability	Severity	Impact
-1	Local File Inclusion (LFI)	High	Possible file read → RCE
-2	Sensitive Files Accessible	High	Config files exposed
-3	Port 8080 Unsecured	Medium	Fingerprinting, exploit surface
-4	HTTP Methods Enabled	Medium	OPTIONS/TRACE methods
-5	Verbose Error Response	Medium	Info disclosure
-6	Legacy Applications Detected	Medium	Known exploits
+
+1 	Local File Inclusion (LFI)	      High	          Possible file read → RCE
+2 	Sensitive Files Accessible	      High            Config files exposed
+3	  Port 8080 Unsecured              	Medium	        Fingerprinting, exploit surface
+4	  HTTP Methods Enabled	            Medium	        OPTIONS/TRACE methods
+5	  Verbose Error Response	          Medium	        Info disclosure
+6	  Legacy Applications Detected	    Medium    	    Known exploits
 
